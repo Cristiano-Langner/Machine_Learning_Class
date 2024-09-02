@@ -1,1 +1,2 @@
-*.ipynb linguist-language=Python
+*.ipynb linguist-detectable=false
+# Configuração apenas para não impactar no github stats devido a grande quantidade de dados "não código" que o jupiter notebook gera.
